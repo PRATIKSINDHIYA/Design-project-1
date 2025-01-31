@@ -49,9 +49,3 @@ Experiment with GRUs and Hybrid Models.
 
 
 
----
-
-Developed by Pratik Sindhiya, Gaurav Barhate, Abbas Hakimi, and Parth Bhawsar.
-
-
-

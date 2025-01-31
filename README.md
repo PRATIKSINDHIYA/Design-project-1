@@ -15,3 +15,43 @@ This project focuses on predicting stock prices using Long Short-Term Memory (LS
 - Pandas, NumPy
 - Matplotlib
 - Yahoo Finance API
+
+## Repository Structure
+
+📂 Stock-Market-Prediction       │── 📜 Design_project_report.pdf
+│── 📜 lstm_stockprediction.ipynb
+│── 📜 Presentation_Poster.pdf
+│── 📜 README.md
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PRATIKSINDHIYA/Design-project-1.git
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+
+3. Run the Jupyter Notebook:
+
+jupyter notebook lstm_stockprediction.ipynb
+
+
+
+Future Enhancements
+
+Add sentiment analysis for better predictions.
+
+Include macroeconomic indicators.
+
+Experiment with GRUs and Hybrid Models.
+
+
+
+---
+
+Developed by Pratik Sindhiya, Gaurav Barhate, Abbas Hakimi, and Parth Bhawsar.
+
+
+
